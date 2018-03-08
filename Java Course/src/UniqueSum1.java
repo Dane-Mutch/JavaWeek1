@@ -1,4 +1,4 @@
-public class UniqueSum {
+public class UniqueSum1 {
 	public static void main(String[] args) {
 		System.out.println(sumReturn(3, 4, 3));
 		System.out.println(sumReturn(3, 4, 2));

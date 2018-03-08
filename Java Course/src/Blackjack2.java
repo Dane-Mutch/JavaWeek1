@@ -1,6 +1,4 @@
-
-
-public class Blackjack {
+public class Blackjack2 {
 	
 	public static void main(String[] args) {
 		System.out.println(returnValue(18, 20));
